@@ -1,0 +1,12 @@
+DynamicTitle2 = 
+VAR SelectedCities = VALUES(dentists_german_cites[city])
+VAR CityCount = COUNTROWS(SelectedCities)
+VAR AllCityCount = CALCULATE(COUNTROWS(VALUES(dentists_german_cites[city])), ALL(dentists_german_cites))
+VAR CityList = 
+    CONCATENATEX(
+        SelectedCities,
+        UPPER(LEFT([city], 1)) & LOWER(RIGHT([city], LEN([city]) - 1)),
+        ", "
+    )
+RETURN
+"Dentists in " & IF(CityCount = AllCityCount || CityCount = 0, "All Cities", CityList)

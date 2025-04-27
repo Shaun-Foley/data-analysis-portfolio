@@ -1,0 +1,8 @@
+ProportionTempClosed = 
+CALCULATE(
+    DIVIDE(
+        COUNTROWS(FILTER(dentists_german_cites, dentists_german_cites[business_status] = "CLOSED_TEMPORARILY")),
+        COUNTROWS(dentists_german_cites),
+        0
+    )
+)

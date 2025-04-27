@@ -1,0 +1,11 @@
+SelectedStatAverage = 
+VAR SelectedStat = SELECTEDVALUE(StatSelector[StatName], "total_points")
+RETURN
+SWITCH(
+    SelectedStat,
+    "total_points", AVERAGE('metabase_db pokemon'[total_points]), 
+    "hp", AVERAGE('metabase_db pokemon'[hp]), 
+    "attack", AVERAGE('metabase_db pokemon'[attack]),
+    "defense", AVERAGE('metabase_db pokemon'[defense]), 
+    AVERAGE('metabase_db pokemon'[total_points]) -- Default
+)

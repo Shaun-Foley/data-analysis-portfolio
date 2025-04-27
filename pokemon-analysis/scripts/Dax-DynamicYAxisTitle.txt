@@ -1,0 +1,11 @@
+DynamicYAxisTitle = 
+VAR SelectedStat = SELECTEDVALUE(StatSelector[DisplayName], "Total Points")
+RETURN
+SWITCH(
+    SelectedStat,
+    "Total Points", "Total Points Average Across Generation",
+    "HP", "HP Average Across Generation",
+    "Attack", "Attack Average Across Generation",
+    "Defense", "Defense Average Across Generation",
+    "Total Points Average Across Generation" -- Default
+)

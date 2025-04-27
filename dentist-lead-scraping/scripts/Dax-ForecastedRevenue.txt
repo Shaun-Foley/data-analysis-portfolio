@@ -1,0 +1,9 @@
+ForecastedRevenue = 
+VAR TotalDentists = COUNTROWS(dentists_german_cites)
+VAR ConversionRate = 0.10
+VAR Subscribers = TotalDentists * ConversionRate
+VAR ZeitSparenSubscribers = Subscribers * 0.7
+VAR UmsatzErhohenSubscribers = Subscribers * 0.3
+VAR Revenue = (ZeitSparenSubscribers * 129) + (UmsatzErhohenSubscribers * 199)
+RETURN
+Revenue
