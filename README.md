@@ -6,7 +6,6 @@ Hi, I'm Shaun Foley, a product and data analyst skilled in Python, SQL, Excel, P
 - **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter), SQL
 - **Visualisation**: Power BI, Metabase, Excel, and SPSS
 - **Statistical Analysis**: Experimentation, A/B, Inference and Hypothesis Testing, Regression, Exploratory data analysis
-- **Other**: Excel, Web Scraping, Statistical Analysis
 
 ## Projects
 - [Coffee Shop Sales Analysis](coffee-shop-sales/): Analysed sales data to identify trends using Metabase.
