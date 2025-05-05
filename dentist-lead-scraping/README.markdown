@@ -76,6 +76,11 @@ dentist-lead-scraping/
 - **Revenue Forecast**: 136K total (Berlin: 51.7K, Zurich: 9.9K, Vienna: 19.2K).
 - **Visualisations**: Interactive dashboard shows dentist distribution and metrics by city (`documentation/`).
 
+## Recommendations
+- Prioritise marketing in Berlin due to its larger dentist population and then move into marketing in Vienna.
+- Tailor SaaS features to address regional needs.
+- Use a Power BI dashboard to track lead conversion progress and refine targeting.
+
 ## Future Work
 - Expand scraping to additional cities for broader market analysis.
 - Use scraping for market research and other client work.

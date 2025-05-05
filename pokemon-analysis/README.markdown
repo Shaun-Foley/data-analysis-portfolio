@@ -95,6 +95,11 @@ pokemon-analysis/
 ## Insights
 - Non-legendary Pokémon like Mega Garchomp and Mega Metagross are viable for competitive teams due to high total points (700).
 
+## Recommendations
+- Build teams around Dragon and Steel types for high stat totals and type coverage.
+- Include Mega evolutions like Mega-Garchomp for competitive battles due to their stat boosts.
+- Use the Power BI dashboard to explore matchups and counter-strategies for specific opponents.
+
 ## Future Work
 - Add predictive modeling to estimate Pokémon performance in battles.
 - Incorporate additional datasets (e.g., move sets) for deeper analysis.

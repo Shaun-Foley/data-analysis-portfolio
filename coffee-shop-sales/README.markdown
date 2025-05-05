@@ -92,6 +92,10 @@ coffee-shop-sales/
 - Underperforming products like Clothing and House blend beans may need reevaluation or marketing adjustments.
 - Morning hours (8 AM–10 AM) are peak times, ideal for targeting high-traffic promotions.
 
+## Recommendations
+- Increase staffing during 8–10 AM to reduce customer wait times.
+- Adjust inventory to prioritise top-selling products (Coffee and Tea), reducing waste from unsold items (e.g. Clothing and House blend beans).
+
 ## Future Work
 - Analyse customer loyalty patterns if data becomes available.
 - Explore seasonal trends (e.g., monthly sales) for deeper insights.
