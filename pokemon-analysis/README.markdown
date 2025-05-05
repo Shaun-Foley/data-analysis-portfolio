@@ -1,6 +1,6 @@
-# Pokémon Strength Analysis for a client
+# Pokémon Strength Analysis
 
-This project analyses Pokémon attributes to identify the strongest Pokémon and best team match-ups. A client who is enthusiastic about Pokemon games and trading cards wanted to explore which pokemon matchups worked best, stat trends across generations, and assess type effectiveness using a comprehensive dataset. The process involves data cleaning, database integration, and interactive visualisations in Power BI and Metabase. I share this project here as an example of work. The project demonstrates proficiency in data cleaning, SQL querying, DAX for dynamic visualisations, and dashboard creation.
+This project analyses Pokémon attributes to identify the strongest Pokémon and best team match-ups. I have always been interested in Pokemon as a game and series so I was interested in exploring which pokemon matchups worked best, stat trends across generations, and assess type effectiveness using a comprehensive dataset. The process involves data cleaning, database integration, and interactive visualisations in Power BI and Metabase. I share this project here as an example of work. The project demonstrates proficiency in data cleaning, SQL querying, DAX for dynamic visualisations, and dashboard creation.
 
 ## Objective
 Uncover insights into Pokémon performance by:

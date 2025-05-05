@@ -1,6 +1,6 @@
 # Coffee Shop Sales Dashboard
 
-This project analyses sales data from a coffee shop chain to uncover performance trends, identify top-selling products, and evaluate customer behavior across stores. The process involves data cleaning, database setup, SQL analysis, and visualisation through an interactive dashboard on Metabase. The aim of this project was to replicate similar work I have done for clients with public data. The project showcases skills in data normalisation, efficient SQL imports, and actionable dashboard design.
+This project analyses sales data from a coffee shop chain to uncover performance trends and identify top-selling products. The process involves data cleaning, database setup, SQL analysis, and visualisation through an interactive dashboard on Metabase. The aim of this project was to replicate similar work I have done for clients with public data. The project showcases skills in data normalisation, efficient SQL imports, and actionable dashboard design.
 
 
 ## Objective
